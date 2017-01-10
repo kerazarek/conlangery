@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>EmbeddedEditorHidden:zarek</key>
+	<false/>
+	<key>ExpandedEditorWidth:zarek:displays([(0, 0), (1680, 1050)])</key>
+	<integer>849</integer>
+	<key>ExpandedItems:zarek</key>
+	<array/>
+	<key>FileFilterMode:zarek</key>
+	<integer>0</integer>
+	<key>OpenDocuments:zarek</key>
+	<array/>
+	<key>OpenDocumentsExpanded</key>
+	<true/>
+	<key>OpenDocumentsSplitterProportion</key>
+	<real>0.85370951890945435</real>
+	<key>ProjectItemsExpanded</key>
+	<true/>
+	<key>ProjectViewVisible</key>
+	<true/>
+	<key>RecentItems:zarek</key>
+	<array/>
+	<key>ScratchpadItemsExpanded</key>
+	<true/>
+	<key>ScratchpadItemsVisible</key>
+	<true/>
+	<key>ShowSCMData:zarek</key>
+	<false/>
+	<key>ToolbarVisible:zarek</key>
+	<false/>
+	<key>ViewSplitterPosition:zarek</key>
+	<real>0.19296577572822571</real>
+	<key>WindowFrame:zarek:displays([(0, 0), (1680, 1050)])</key>
+	<string>rect(89,44,1046,1096)</string>
+</dict>
+</plist>
